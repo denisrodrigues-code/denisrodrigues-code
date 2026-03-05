@@ -22,24 +22,42 @@
 
 ###
 
-<div align="center">
+<h3 align="left">Programming Languages</h3>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />  
+</div>
+
+###
+
+<h3 align="left">Frontend</h3>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
+</div>
+
+###
+
+<h3 align="left">Backend</h3>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
 </div>
 
 ###
@@ -49,7 +67,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=denisrodrigues-code&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img align="center" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denisrodrigues-code&show_icons=true&theme=tokyonight&count_private=true" />
+  <img align="center" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denisrodrigues-code&layout=compact&theme=tokyonight" />
 </div>
 
 ###
