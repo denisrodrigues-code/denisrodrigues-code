@@ -73,11 +73,15 @@ Currently expanding my knowledge in **software architecture, distributed systems
 
 ## 📊 Github Stats
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denisrodrigues-code&theme=github_dark) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=denisrodrigues-code&theme=github_dark)  |
-| :-: | :-: |
+<div align="center">
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denisrodrigues-code&theme=github_dark&hide_border=true&card_width=600)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=denisrodrigues-code&theme=github_dark&utcOffset=8) |
-| :-: | :-: |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denisrodrigues-code&theme=github_dark) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=denisrodrigues-code&theme=github_dark)  |
+  | :-: | :-: |
+
+  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denisrodrigues-code&theme=github_dark&hide_border=true&card_width=600)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=denisrodrigues-code&theme=github_dark&utcOffset=8) |
+  | :-: | :-: |
+
+</div>
 
 
 ###
