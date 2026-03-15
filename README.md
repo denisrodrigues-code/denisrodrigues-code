@@ -1,83 +1,60 @@
-<h1 align="center">Hi👋, I'm Denis Rodrigues</h1>
+# <div align="center">Hi! 👋  I'm Denis Rodrigues</div>  
+  
 
-###
+- 📍Penedo-AL, Brasil  
+  
 
-<h4 align="left">💻 Full Stack Developer</h4>
+- 🔭 I’m currently working on [Personal Portfolio](https://github.com/denisrodrigues-code/react-tailwind-portfolio)  
+  
 
-###
+- 🌱 I’m currently learning Golang and AWS  
+  
 
-<h4 align="left">🎯 Focused on Back-end, APIs, and application architecture</h4>
+## 👨‍💻 About  
+  
 
-###
+Software Engineer and Full Stack Developer focused on building **scalable, maintainable, and high-quality web systems**.
 
-<h4 align="left">📍 Penedo – AL, Brasil</h4>
+My experience spans the entire **software development lifecycle (SDLC)** — from requirements analysis and system design to development, testing, deployment, and production maintenance. I work primarily with **JavaScript/TypeScript ecosystems**, developing modern front-end applications with **React** and robust backend services using **Node.js and RESTful APIs**.
 
-###
+I have experience integrating applications with **SQL and NoSQL databases**, implementing authentication, designing API architectures, and applying software engineering principles such as **Clean Code, SOLID, and modular architecture**.
 
-<p align="left">I am a Full Stack Developer with experience building complete web applications, working across both front-end and back-end, with a strong interest in API architecture, software engineering best practices, and scalable systems.<br><br>I have experience using React on the front-end and Node.js / .NET on the back-end, always prioritizing performance, code organization, and maintainability. I have also worked as a back-end instructor and programming logic teacher, which strengthened my technical communication skills and my ability to clearly explain complex concepts.</p>
+Beyond development, I have also contributed to the growth of other developers as a **backend instructor and mentor**, helping engineers understand backend architecture, API design, and engineering best practices.
 
-###
+Currently expanding my knowledge in **software architecture, distributed systems, microservices, and cloud platforms such as AWS**, with a strong interest in designing systems that are resilient, scalable, and production-ready.
 
-<h2 align="left">🛠️ Technologies & Tools</h2>
 
-###
+## 🛠 Tech Stack
 
-<h3 align="left">Programming Languages</h3>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Languages</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,java,cs,python,go" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,tailwind" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring,mysql,postgres,mongodb" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />  
-</div>
-
-###
-
-<h3 align="left">Frontend</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-</div>
-
-###
-
-<h3 align="left">Backend</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-</div>
-
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
+## 🤝 Connect with me
+<br/>
 
 <div align="center">
-  <img align="center" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denisrodrigues-code&show_icons=true&theme=tokyonight&count_private=true" />
-  <img align="center" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denisrodrigues-code&layout=compact&theme=tokyonight" />
-</div>
-
-###
-
-<h2 align="left">📫 Contact</h2>
-
-###
-
-<div align="center">
+  
   <a href="https://www.linkedin.com/in/denisrodrigues-dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
   </a>
@@ -91,6 +68,17 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
   </a>
 </div>
+
+<br/>  
+
+## 📊 Github Stats
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denisrodrigues-code&theme=github_dark) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=denisrodrigues-code&theme=github_dark)  |
+| :-: | :-: |
+
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denisrodrigues-code&theme=github_dark&hide_border=true&card_width=600)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=denisrodrigues-code&theme=github_dark&utcOffset=8) |
+| :-: | :-: |
+
 
 ###
 
