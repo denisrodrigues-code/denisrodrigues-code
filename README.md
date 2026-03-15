@@ -1,87 +1,81 @@
-# <div align="center">Hi! 👋  I'm Denis Rodrigues</div>  
-  
+<h1 align="center">Hi 👋, I'm Denis Rodrigues</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
-- 📍Penedo-AL, Brasil  
-  
+---
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/denisrodrigues-code/react-tailwind-portfolio)  
-  
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning Golang and AWS  
-  
+Software Engineer and Full Stack Developer focused on building **scalable web applications and robust backend systems**.
 
-## 👨‍💻 About  
-  
+I work with **React, Node.js, JavaScript, and TypeScript**, developing modern web applications and REST APIs while applying software engineering best practices such as **Clean Code and SOLID principles**.
 
-Software Engineer and Full Stack Developer focused on building **scalable, maintainable, and high-quality web systems**.
+Currently interested in **software architecture, microservices, distributed systems, and cloud technologies (AWS)**.
 
-My experience spans the entire **software development lifecycle (SDLC)** — from requirements analysis and system design to development, testing, deployment, and production maintenance. I work primarily with **JavaScript/TypeScript ecosystems**, developing modern front-end applications with **React** and robust backend services using **Node.js and RESTful APIs**.
-
-I have experience integrating applications with **SQL and NoSQL databases**, implementing authentication, designing API architectures, and applying software engineering principles such as **Clean Code, SOLID, and modular architecture**.
-
-Beyond development, I have also contributed to the growth of other developers as a **backend instructor and mentor**, helping engineers understand backend architecture, API design, and engineering best practices.
-
-Currently expanding my knowledge in **software architecture, distributed systems, microservices, and cloud platforms such as AWS**, with a strong interest in designing systems that are resilient, scalable, and production-ready.
-
+---
 
 ## 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Languages</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,java,cs,python,go" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,tailwind" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring,mysql,postgres,mongodb" />
-      </p>
-    </td>
-  </tr>
-</table>
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs,python,go" />
+</p>
 
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,tailwind" />
+</p>
 
-## 🤝 Connect with me
-<br/>
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring,mysql,postgres,mongodb" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,jest,vscode,postman" />
+</p>
+
+### Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Lenovo Scraper API**  
+API built with Go for web scraping and product data extraction.
+
+🔹 **Full Stack Web Applications**  
+Projects built with React and Node.js integrating REST APIs and databases.
+
+🔹 **Backend Architecture Projects**  
+Systems focused on API design, database integration, and scalable backend solutions.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/denisrodrigues-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/denisrodrigues.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/5582988281323" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:denisrodrigues.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
-  </a>
-</div>
-
-<br/>  
-
-## 📊 Github Stats
-
-<div align="center">
-
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denisrodrigues-code&theme=github_dark) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=denisrodrigues-code&theme=github_dark)  |
   | :-: | :-: |
 
   | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denisrodrigues-code&theme=github_dark&hide_border=true&card_width=600)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=denisrodrigues-code&theme=github_dark&utcOffset=8) |
   | :-: | :-: |
-
+  
 </div>
+
+---
+
+## 📫 Contact
+
+📧 Email: **denisrodrigues.dev@gmail.com**
+
+💼 LinkedIn: https://linkedin.com/in/denisrodrigues-dev
+
+🐙 GitHub: https://github.com/denisrodrigues-code
 
 
 ###
