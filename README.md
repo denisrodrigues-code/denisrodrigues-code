@@ -44,14 +44,12 @@ Currently interested in **software architecture, microservices, distributed syst
 
 ## 🚀 Featured Projects
 
-🔹 **Lenovo Scraper API**  
-API built with Go for web scraping and product data extraction.
+### Lenovo Scraper API
+API desenvolvida em Go para extração e organização de dados de produtos utilizando técnicas de web scraping.
 
-🔹 **Full Stack Web Applications**  
-Projects built with React and Node.js integrating REST APIs and databases.
+**Tech:** Go, REST API, Web Scraping
 
-🔹 **Backend Architecture Projects**  
-Systems focused on API design, database integration, and scalable backend solutions.
+🔗 https://github.com/denisrodrigues-code/lenovo-scraper-api
 
 ---
 
