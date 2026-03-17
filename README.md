@@ -57,6 +57,7 @@ Portfólio profissional desenvolvido com foco em engenharia front-end moderna: a
 **Tech:** React 19, Vite 7, Tailwind CSS 4, Framer Motion
 
 🔗 https://github.com/denisrodrigues-code/react-tailwind-portfolio
+🔗 https://react-tailwind-portfolio-tau-six.vercel.app
 
 ---
 
