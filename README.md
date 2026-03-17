@@ -51,6 +51,13 @@ API desenvolvida em Go para extração e organização de dados de produtos util
 
 🔗 https://github.com/denisrodrigues-code/lenovo-scraper-api
 
+### Portfólio Denis Rodrigues
+Portfólio profissional desenvolvido com foco em engenharia front-end moderna: arquitetura modular, UX responsiva, animações orientadas a contexto e padrão de qualidade consistente.
+
+**Tech:** React 19, Vite 7, Tailwind CSS 4, Framer Motion
+
+🔗 https://github.com/denisrodrigues-code/react-tailwind-portfolio
+
 ---
 
 ## 📊 GitHub Stats
